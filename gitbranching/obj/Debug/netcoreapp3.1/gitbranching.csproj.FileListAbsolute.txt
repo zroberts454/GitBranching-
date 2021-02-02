@@ -1,0 +1,13 @@
+C:\Users\Zac\Desktop\Repos\gitbranching\gitbranching\bin\Debug\netcoreapp3.1\gitbranching.exe
+C:\Users\Zac\Desktop\Repos\gitbranching\gitbranching\bin\Debug\netcoreapp3.1\gitbranching.deps.json
+C:\Users\Zac\Desktop\Repos\gitbranching\gitbranching\bin\Debug\netcoreapp3.1\gitbranching.runtimeconfig.json
+C:\Users\Zac\Desktop\Repos\gitbranching\gitbranching\bin\Debug\netcoreapp3.1\gitbranching.runtimeconfig.dev.json
+C:\Users\Zac\Desktop\Repos\gitbranching\gitbranching\bin\Debug\netcoreapp3.1\gitbranching.dll
+C:\Users\Zac\Desktop\Repos\gitbranching\gitbranching\bin\Debug\netcoreapp3.1\gitbranching.pdb
+C:\Users\Zac\Desktop\Repos\gitbranching\gitbranching\obj\Debug\netcoreapp3.1\gitbranching.csprojAssemblyReference.cache
+C:\Users\Zac\Desktop\Repos\gitbranching\gitbranching\obj\Debug\netcoreapp3.1\gitbranching.AssemblyInfoInputs.cache
+C:\Users\Zac\Desktop\Repos\gitbranching\gitbranching\obj\Debug\netcoreapp3.1\gitbranching.AssemblyInfo.cs
+C:\Users\Zac\Desktop\Repos\gitbranching\gitbranching\obj\Debug\netcoreapp3.1\gitbranching.csproj.CoreCompileInputs.cache
+C:\Users\Zac\Desktop\Repos\gitbranching\gitbranching\obj\Debug\netcoreapp3.1\gitbranching.dll
+C:\Users\Zac\Desktop\Repos\gitbranching\gitbranching\obj\Debug\netcoreapp3.1\gitbranching.pdb
+C:\Users\Zac\Desktop\Repos\gitbranching\gitbranching\obj\Debug\netcoreapp3.1\gitbranching.genruntimeconfig.cache
